@@ -4,7 +4,7 @@ import { Input } from '@chakra-ui/react'
 import { Button, ButtonGroup } from '@chakra-ui/react'
 import Slider from '../components/Slider'
 import Slider2 from '../components/Slider2'
-import './Nav.css'  
+import '../components/Nav.css'  
 import { AuthState } from '../context/context'
 import rents from '../components/Data'
 
