@@ -1,0 +1,14 @@
+.inlineb{
+  display: flex;
+  flex-direction: row;
+  column-gap: 5%;
+  margin: auto;
+  margin-top: 20px;
+  border-color: rgb(0, 145, 255);
+  border-radius: 1rem;
+  width: 80%;
+
+  border-width: 2px;
+  padding: 10px;
+
+}

@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+
+
+
+.App {
+  display: flex;
+  flex-direction: row;
+  font-family: 'Lato', sans-serif;
+
+}
+
+.App-how{
+  display: flex;
+  flex-direction: row;
+  margin-left: 10%;
+  column-gap: 3px;
+  margin-top: 4px;
+}
+
