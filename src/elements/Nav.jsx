@@ -2,11 +2,11 @@ import React, { useEffect,useState } from 'react'
 import { Select, Text} from '@chakra-ui/react' 
 import { Input } from '@chakra-ui/react'
 import { Button, ButtonGroup } from '@chakra-ui/react'
-import Slider from './Slider'
-import Slider2 from './Slider2'
+import Slider from '../components/Slider'
+import Slider2 from '../components/Slider2'
 import './Nav.css'  
 import { AuthState } from '../context/context'
-import rents from './Data'
+import rents from '../components/Data'
 
 
 const Nav = () => {
